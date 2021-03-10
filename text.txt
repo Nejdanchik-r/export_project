@@ -2,3 +2,7 @@ My project!
 project
 ХАХАХА ТЫ ЗАТРОЛЕН!!!))))
 Нет :с
+for (i: = 0; i<n; i++)
+
+    if (max < mas{i, j})
+      max:= mas[i, j];
