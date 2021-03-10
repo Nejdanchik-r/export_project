@@ -4,6 +4,6 @@ project
 Нет :с
 for (i: = 0; i < n; i++)
 for (j: = 0; j < n; j++)
-    if (max > mas{i, j})
+    if (max > mas[i, j])
       max:= mas[i, j];
       
